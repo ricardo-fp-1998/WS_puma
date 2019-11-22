@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\WB_3\WSproject\bin\WSproject.dll.config
+C:\Users\Alumno\Desktop\WB_3\WSproject\bin\WSproject.dll
+C:\Users\Alumno\Desktop\WB_3\WSproject\bin\WSproject.pdb
+C:\Users\Alumno\Desktop\WB_3\WSproject\obj\Debug\WSproject.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\WB_3\WSproject\obj\Debug\WSproject.dll
+C:\Users\Alumno\Desktop\WB_3\WSproject\obj\Debug\WSproject.pdb
